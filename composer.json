@@ -1,0 +1,13 @@
+{
+	"name": "hamaka/widgets",
+	"type": "silverstripe-module",
+	"description": "Custom SilverStripe Widgets by Hamaka",
+	"homepage": "http://hamaka.nl",
+	"keywords": ["silverstripe", "widgets"],
+	"authors": [
+		{
+			"name": "Hamaka",
+			"homepage": "http://hamaka.nl"
+		}
+	]
+}
